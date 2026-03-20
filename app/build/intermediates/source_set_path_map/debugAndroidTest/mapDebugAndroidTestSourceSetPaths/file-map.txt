@@ -1,5 +1,0 @@
-com.bluesharp.display.test.app-androidTest-0 /Users/michaelmohr/AndroidStudioProjects/BluesHarpDisplay/app/build/generated/res/resValues/androidTest/debug
-com.bluesharp.display.test.app-updated_navigation_xml-1 /Users/michaelmohr/AndroidStudioProjects/BluesHarpDisplay/app/build/generated/updated_navigation_xml/debugAndroidTest
-com.bluesharp.display.test.app-mergeDebugAndroidTestResources-2 /Users/michaelmohr/AndroidStudioProjects/BluesHarpDisplay/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.bluesharp.display.test.app-mergeDebugAndroidTestResources-3 /Users/michaelmohr/AndroidStudioProjects/BluesHarpDisplay/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.bluesharp.display.test.app-debugAndroidTest-4 /Users/michaelmohr/AndroidStudioProjects/BluesHarpDisplay/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
